@@ -3,7 +3,7 @@
 **I'm Anna - Frontend**
 `👀 I’m interested in coding`
 
-![GIF Anna]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdib2J3bTFreWw4OXU2d2JjcWt1d2x5MnRiczAxYnpoamt0dTN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif))
+![GIF Anna(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdib2J3bTFreWw4OXU2d2JjcWt1d2x5MnRiczAxYnpoamt0dTN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
