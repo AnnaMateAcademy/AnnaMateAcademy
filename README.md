@@ -6,6 +6,7 @@
 ![GIF Anna](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdib2J3bTFreWw4OXU2d2JjcWt1d2x5MnRiczAxYnpoamt0dTN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Logo](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
